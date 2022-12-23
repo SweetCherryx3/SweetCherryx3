@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Cherry 🍒
 
 <!--
 **SweetCherryx3/SweetCherryx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Currently a Junior at New Jersey Institute of Technology
+- An artist on the side
+
+
+## Languages
+
+<a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+
+## Tools
+
+<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
